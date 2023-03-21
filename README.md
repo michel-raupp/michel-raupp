@@ -39,7 +39,7 @@ I’m a focused designer who is currently studying Frontend programming. I worke
 
 </br>
 
-![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Photoshop&color=61DAFB)
+![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=AdobePhotoshop&color=0d80d0)
 ![](https://img.shields.io/badge/Tools-Aseprite-informational?style=flat&logo=Aseprite&color=999999)
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
