@@ -6,7 +6,7 @@ What's up! my name is <a href="https://www.michelraupp.com/" target="_blank" rel
 I'm a Front-end Developer 💻 and a Designer 🎨!
 </h2> 
 
-I’m a focused designer who is currently studying Frontend programming. I worked for a blockchain game as concept artist and UX/UI developer for the last year, and now I'm trying to develop my skills on new projects.
+I'm a front-end developer and UI designer. I've been studying React Native and Next.js over the past few months. Currently, I work as a front-end and UX developer simultaneously. Previously, I've also created digital art for a blockchain project.
 
 ## Connect with me:
 
@@ -21,9 +21,8 @@ I’m a focused designer who is currently studying Frontend programming. I worke
 
 ## I'm currently learning
 
-- React.JS
-- Javascript
-- Styled Components  
+- Next.js
+- React Native
 
 ## My Technical Skills
 
@@ -35,6 +34,7 @@ I’m a focused designer who is currently studying Frontend programming. I worke
 
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 ![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
+![](https://img.shields.io/badge/Tailwind-CSS-informational?style=flat&logo=tailwind-css&color=06b6d4)
 
 
 </br>
